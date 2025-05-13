@@ -1,5 +1,6 @@
 # Iris_dataset_pythonweek7_assignment
 
+
 # Iris Dataset Analysis 
 
 
@@ -22,12 +23,12 @@ This project involves loading, exploring, analyzing, and visualizing the classic
 
 ### 3. Data Visualization
 Created the following plots:
-- 📈 **Line Chart** – Average measurements per species
-- 📊 **Bar Chart** – Average petal length per species
-- 📉 **Histogram** – Sepal width distribution
-- 🌸 **Scatter Plot** – Sepal length vs. petal length colored by species
+- **Line Chart** – Average measurements per species
+- **Bar Chart** – Average petal length per species
+- **Histogram** – Sepal width distribution
+- **Scatter Plot** – Sepal length vs. petal length colored by species
 
-## 🔍 Key Insights
+##  Key Insights
 - **Petal length and width** are the most distinguishing features across species.
 - **Species form distinct clusters** in scatter plots, useful for classification tasks.
 - The dataset is clean, balanced, and ideal for supervised learning exercises.
